@@ -119,3 +119,9 @@ h1{
     color: #fff;
     padding: 20px;
 }
+
+@media(max-width: 425px) {
+    #message p {
+        width: 250px;
+    }
+}
